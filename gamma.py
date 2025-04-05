@@ -1,3 +1,3 @@
 print("este archivo tiene el gamma")
-#Johan Tarazona
+#Johan Tarazona no te precipites
 
